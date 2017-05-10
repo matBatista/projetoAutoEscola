@@ -1,2 +1,4 @@
 # projetoAutoEscola
-Aplicação Mobile para Auto Escola
+Gerar uma aplicação mobile para Auto Escola;
+
+Fazer levantamento de requisitos.
